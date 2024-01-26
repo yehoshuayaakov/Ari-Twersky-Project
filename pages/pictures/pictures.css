@@ -1,0 +1,16 @@
+main {
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(bisque, lightgrey);
+}
+.carouselContainer{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.carousel {
+    width:640px;
+    height:360px;
+  }

@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: lightgrey;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    height: 15%;
+    flex: 1;
+    background-color: black;
+    color: goldenrod;
+    display: flex;   
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.headerText{
+    font-size: 45px;
+    width: fit-content;
+    animation: myfirst 15s linear 1s infinite;
+    position: relative;
+    right: 0;
+}
+
+@keyframes myfirst {
+  0%   {color:goldenrod; right:-50vw;}
+  25%  {color:gold; right:-25vw; }
+  50%  {color:yellow; right:0vw; }
+  75%  {color:lightyellow; right:25; }
+  100% {color:whitesmoke; right:50vw; }
+}
+main{
+    display: flex;
+    flex: 1;
+    height: 75%;
+    justify-content: center;
+}
+
+footer {
+    flex: 1;
+    height: 10%;
+    background-color: black;
+    color: goldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.buttonCard{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  font-size: 35px;
+  color: goldenrod;
+}
+.buttonCard:hover {
+    cursor: pointer;
+    background-color: goldenrod;
+     color: lightgray;
+}
+.buttonCard:hover > a{
+   
+}
+a {
+    text-decoration: none;
+    color: goldenrod;  
+}
+a:visited{
+    color: goldenrod;
+}
+.headerNavigation {
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    text-decoration: underline;
+    justify-self: end;
+}
