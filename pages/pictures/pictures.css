@@ -4,13 +4,24 @@ main {
     background: linear-gradient(bisque, lightgrey);
 }
 .carouselContainer{
-    height: 50vh;
+    height: 75vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.imageContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .carousel {
     width:640px;
     height:360px;
   }
+.chevron {
+    height: 40px;
+    font-weight: 600;
+    margin: 10px;
+    opacity: .4;
+}
