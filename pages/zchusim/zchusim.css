@@ -1,0 +1,33 @@
+main {
+    background: linear-gradient(goldenrod,white);
+}
+tr, td, th {
+    max-height: 35px;
+}
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    width : 25vw;
+    padding: 40px;
+}
+form input {
+    margin-bottom: 15px;
+}
+#zechus{
+    width: 15vw;
+}
+#submitButton {
+    border-radius: 8px;
+    border: goldenrod 1px solid;
+    color: goldenrod;
+    padding: 8px;
+    font-weight: 600;
+}
+#submitButton:hover{
+    background-color: goldenrod;
+    color: whitesmoke;
+    border: whitesmoke 1px solid;
+
+}

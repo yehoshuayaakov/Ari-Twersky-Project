@@ -1,0 +1,23 @@
+.memoriesContainer {
+display: flex;
+justify-content: center;
+}
+.memoryPage {
+    box-sizing: border-box;
+    height: 80vh;
+    width: 50vw;
+    background-image: url('../../assets/background-images/old-sheet-of-paper-1427188.jpg');
+    background-size: cover;
+    padding: 20px;
+
+}
+.sideContainerLeft{
+    width: 25vw;
+    height: 80vh;
+    background: linear-gradient(to right, goldenrod, white)
+}
+.sideContainerRight{
+    width: 25vw;
+    height: 80vh;
+    background: linear-gradient(to right, white, goldenrod);
+}
