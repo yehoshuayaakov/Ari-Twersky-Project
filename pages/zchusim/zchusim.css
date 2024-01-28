@@ -20,14 +20,14 @@ form input {
 }
 #submitButton {
     border-radius: 8px;
-    border: goldenrod 1px solid;
+    border: goldenrod 2px solid;
     color: goldenrod;
     padding: 8px;
     font-weight: 600;
 }
 #submitButton:hover{
     background-color: goldenrod;
-    color: whitesmoke;
-    border: whitesmoke 1px solid;
+    color: white;
+    border: white 2px solid;
 
 }
