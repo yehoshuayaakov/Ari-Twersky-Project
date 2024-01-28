@@ -8,8 +8,8 @@ justify-content: center;
     width: 50vw;
     background-image: url('../../assets/background-images/old-sheet-of-paper-1427188.jpg');
     background-size: cover;
-    padding: 20px;
-
+    padding: 25px;
+    overflow: hidden;
 }
 .sideContainerLeft{
     width: 25vw;
