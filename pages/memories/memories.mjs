@@ -1,4 +1,4 @@
-// import { memories } from "../../assets/memories";
+//  import { memories } from "../../assets/memories";
 
 const memories = [{
     author: "Eitan Katz",

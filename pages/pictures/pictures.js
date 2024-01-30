@@ -11,25 +11,25 @@ function nextImage(){
         if (count < imageSrcArray.length-1){
             ++count
             image.src = imageSrcArray[count];
-            console.log(count)
+            console.log(count);
         }
         else {
             count = 0
             image.src = imageSrcArray[count];
         }
 }
+
 function previousImage(){
     if (count > 0){
         --count
         image.src = imageSrcArray[count];
-        console.log(count)
+        console.log(count);
     }
     else {
         count = imageSrcArray.length-1
         image.src = imageSrcArray[count];
     }
 }
-
 
 nextButton.addEventListener('click',nextImage);
 backButton.addEventListener('click',previousImage)

@@ -32,3 +32,12 @@ main {
     cursor: pointer;
     opacity: 1;
 }
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
