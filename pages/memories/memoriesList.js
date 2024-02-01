@@ -17,45 +17,45 @@ export const memories = [{
 },
 {
     author: "Meyer Ashkenazi",
-    content: `It&#39;s so hard to believe that we are holding here, memories.
-    To really grasp Ari Z&quot;L fully it of course won&#39;t be enough to tell over some memories, but it
+    content: `It's so hard to believe that we are holding here, memories.
+    To really grasp Ari Z"L fully it of course won't be enough to tell over some memories, but it
     definitely will keep us aspiring for aliya and growth, which is what underlies all the different
     memories we all have of him.
     Ari. A real friend, a real chavrusa …. a real Yid.
     We started learning together in the Daf Hayomi Kollel on Sorotzkin. It wasn’t just about
     learning a daf a day, it was a full program with many chazaros to insure a kinyan on the
     mesechtos. In general Ari was always into programs and מחייבים that would bring out a
-    persons&#39; real potential, and if the Kollel itself didn’t have one or what they had wasn&#39;t
+    persons' real potential, and if the Kollel itself didn’t have one or what they had wasn't
     enough for him he would create his own programs, and at times he even upgraded and
     changed programs that yeshivos and kollelim had been using for years before he came
     around. Another mechayev he had was the Dirshu tests he would always be taking, this
     obviously caused some pressure to always be on his game, but he loved that. As a test was
     approaching there was much talk amongst the yungelite about the Dirshu test, he would
-    always call it by a slightly different name, he would always stress &quot;it&#39;s not just Dirshu, it&#39;s
-    Dirshu Hashem, we can&#39;t lose focus on what this is all about - connecting to the Rebono shel
-    olam&quot;.
-    Learning with Ari wasn&#39;t just something you do; start seder, end seder… it was a full
+    always call it by a slightly different name, he would always stress "it's not just Dirshu, it's
+    Dirshu Hashem, we can't lose focus on what this is all about - connecting to the Rebono shel
+    olam".
+    Learning with Ari wasn't just something you do; start seder, end seder… it was a full
     experience, full of simcha and life. One of the chaburos he said in the Kollel was about the
-    use of different types of toys on Shabbos (עי&#39; ספר גבורת הארי ס&#39; כב), he showed up with a
+    use of different types of toys on Shabbos (עי' ספר גבורת הארי ס' כב), he showed up with a
     bag (a Shankys bag of course because they are a bit wider than the Yeshiva Seforim bags,
     כידוע ליודע ארי) full of toys, and throughout the chaburah there were toys being flown
     across the beis medrash and cars speeding down the tables, the avrechim there didn’t know
     what hit them, literally, and they left feeling they got such amazing clarity in that סוגיה.
-    Every chaburah was a מעמד, I&#39;m picturing it now ((אמת מה נהדר..., the preparation for hours
+    Every chaburah was a מעמד, I'm picturing it now ((אמת מה נהדר..., the preparation for hours
     upon hours literally (that is after the hours we spent on just learning the sugyah), he had
     prepared pages and pages of notes and photo copies of different sefarim all organized in a
     booklet he made just for this purpose. He placed a recorder on the table in front and stood
     tall by the shtender with a big smile, shuckling back and forth, a bit nervous that everything
     come out clear and accurate, then, he clapped his hands together and began, with the most
     unique scenario you could imagine, asking the oilam what they think would be the din(or as
-    Ari preferred to say &#39;the rachamim&#39;) based on all we have learned the last few weeks. He
-    excitedly listened to each person&#39;s suggestion, and only then began to present the whole
+    Ari preferred to say 'the rachamim') based on all we have learned the last few weeks. He
+    excitedly listened to each person's suggestion, and only then began to present the whole
     sugya from A to Z with great clarity, but always struggling to get out all he wanted to say in
     the allotted time. He made the sugya come alive to all of us.
     
     It was always a living sugya. This is also the reason he loved to see what HaRav Zilberstein
-    שליט&quot;א wrote on the topic, real life unique scenarios that brought out clarity in the sugya.
-    That is why he wished so much (and was B&quot;H zocheh) to have HaRav Zilberstein&#39;s haskama
+    שליט"א wrote on the topic, real life unique scenarios that brought out clarity in the sugya.
+    That is why he wished so much (and was B"H zocheh) to have HaRav Zilberstein's haskama
     on his sefer, it really meant a lot to him.
     
     Ari and I learned so many different limudim together over the years, because the topic was
@@ -66,13 +66,13 @@ export const memories = [{
     end… we are holding in the middle of mikvaos.
     He always needed to get to the bottom of things, and to reach complete clarity in whatever
     he was learning, there was no skipping steps. So, it was time to start נגעים, but Ari was not
-    OK with starting with the first Mishnah like most of us would, &quot;Before we start, we need to
+    OK with starting with the first Mishnah like most of us would, "Before we start, we need to
     give a few days to going through the pesukim with the basic meforshim so that we can have
-    the proper background to start the mesechta&quot; he told me. &quot;If that is what I need to do to be
-    able to learn with you so that is what we will do. &quot;
+    the proper background to start the mesechta" he told me. "If that is what I need to do to be
+    able to learn with you so that is what we will do. "
     No point was too basic or simple for him. As you can see from the notes he wrote in his
     seforim, whatever gave him even the littlest bit of clarity he cherished and wrote down,
-    always quoting the person&#39;s name to give them a good feeling.
+    always quoting the person's name to give them a good feeling.
     When we were about to start a new sugya, the list of mareh mekomos the rosh chabura
     gave us was only a mareh makom for Ari to start working his magic. Ari would show up the
     next morning with a handmade pamphlet with all of the mareh mekomos on the sugya, not
@@ -86,48 +86,48 @@ export const memories = [{
     I didn’t want to bring us back too much to the painful last year but there were the points of
     gadlus that shown though those dark days that I hold on to very tightly and could be a
     source of nechamah to all of us.
-    It was Motzae Shabbos, leil shiva asar b&#39;tamuz, when Ari was taken for the first time to the
+    It was Motzae Shabbos, leil shiva asar b'tamuz, when Ari was taken for the first time to the
     ER. I came to stay with him for the night. He had had a seizure on Shabbos and was now fast
     asleep completely wiped out. After a couple of hours, I saw that he was starting to wake up
     so I got up to get closer to him, to see if he needed something after being knocked out from
     the trauma. He slowly opened his eyes and as soon as they were open just enough to see me
-    standing there, he whispered with the little kochos he had &quot;Meir, did you rest? Sit, sit you
-    need to get some sleep too&quot;. He didn’t say, where am I or what happened, even though he
+    standing there, he whispered with the little kochos he had "Meir, did you rest? Sit, sit you
+    need to get some sleep too". He didn’t say, where am I or what happened, even though he
     didn’t yet know what he had gone through and where he was. All he knew was, I just woke
     up and am exhausted, so Meir must also need to sleep, why is he standing looking after me?
-    I can&#39;t say I wasn’t nogeya b&#39;davar being friends with Ari - it is always nice to be put first.
+    I can't say I wasn’t nogeya b'davar being friends with Ari - it is always nice to be put first.
     It was a few days after Ari got the results of the first MRI when he told me that he really
-    wanted to print his sefer for Aron&#39;s bar mitzva but he didn’t see how he could possibly
-    manage under the circumstances, so we spent many hours together on those &quot;long days&quot;
+    wanted to print his sefer for Aron's bar mitzva but he didn’t see how he could possibly
+    manage under the circumstances, so we spent many hours together on those "long days"
     working on all that still needed to be done. With some team work (Noach Meir putting
-    everything else aside, and others) and a lot of siyata dishmaya, B&quot;H it actually happened.
+    everything else aside, and others) and a lot of siyata dishmaya, B"H it actually happened.
     This most dear thing to him is what he was busy with until… he sadly reached the point that
     he was no longer able to.
     
     Actually, the process started a few years before when the first mahadura of Gevuras HaAri
-    came out for Binyamin&#39;s bar mitzva, as a kuntras. A couple of nights before the bar mitzva I
-    get a call from Ari &quot;Do you think you could give me your opinion on a few things I need to
-    finalize for the kuntres&quot;, &quot;Sure when do you want to meet&quot;, &quot;Whenever it is good for you&quot;, I
-    know what that means I thought to myself, so I asked him &quot;Ari, are you already by my
-    building?&quot;, &quot; Yeah… but really whenever you can… really.&quot; He showed me a few points he
+    came out for Binyamin's bar mitzva, as a kuntras. A couple of nights before the bar mitzva I
+    get a call from Ari "Do you think you could give me your opinion on a few things I need to
+    finalize for the kuntres", "Sure when do you want to meet", "Whenever it is good for you", I
+    know what that means I thought to myself, so I asked him "Ari, are you already by my
+    building?", " Yeah… but really whenever you can… really." He showed me a few points he
     wanted to change, all very subtle, but he was afraid that the changes would make him miss
     the deadline. I told him that these are quite small changes if at all noticeable and I feel that it
     is not worth it to take the risk of it not being ready in time, also it is a kuntres and you can
-    perfect it IY&quot;H before the sefer comes out eventually. He nodded and said OK quietly,
+    perfect it IY"H before the sefer comes out eventually. He nodded and said OK quietly,
     realizing there probably is no eitza but he was a bit discouraged. I showed up at the bar
     mitzva and looked through the beautiful kuntres looking for the mistakes he had wanted to
     fix in order to show him how unnoticeable they actually were, but now the reason they were
-    unnoticeable was because… you know the rest yourself. &quot;A heilige sefer needs to be perfect,
-    and ראוי לעלות על שולחן מלכים&quot;.
+    unnoticeable was because… you know the rest yourself. "A heilige sefer needs to be perfect,
+    and ראוי לעלות על שולחן מלכים".
     
     We were pushing on all fronts to get the sefer printed as soon as possible, we technically
     had some more time to spare before the bar mitzva but the Rebono shel olam wanted it to
     be ready earlier, as I soon got to see.
     One morning I got a call from the publisher, not the best morning because Ari was on his
-    way to Hadassah again, he said &quot;B&quot;H the seforim are about to leave the press where should
-    they be delivered? &quot;. I gave him Ari&#39;s address and asked him to put a few aside so that I
-    could pick them up and bring them with me to the hospital. I understood that Ari&#39;s matzav
-    wasn’t so good and he probably wouldn&#39;t be able to appreciate the sefer at this time. But I
+    way to Hadassah again, he said "B"H the seforim are about to leave the press where should
+    they be delivered? ". I gave him Ari's address and asked him to put a few aside so that I
+    could pick them up and bring them with me to the hospital. I understood that Ari's matzav
+    wasn’t so good and he probably wouldn't be able to appreciate the sefer at this time. But I
     wanted to keep a copy with me at all times to make sure I catch the first window of
     opportunity to give him the nachas he so deserved. I arrived at the ER to see what till today
     is one of the hardest and most painful memories I have of this tekufa. Not poshut at all what
@@ -136,7 +136,7 @@ export const memories = [{
     rest. I was outside the room making a phone call, and suddenly I see Ari somehow standing
     strong on his own by the sink washing negel vasser. He took the peach that was on the table,
     sat down crossed his legs like he was relaxing on a park bench, made a bracha and enjoyed
-    finally having some food, looking out the window in peace. I couldn&#39;t believe what I was
+    finally having some food, looking out the window in peace. I couldn't believe what I was
     seeing. We started schmoozing, and when I saw that he was doing well I realized that this
     was the moment I was waiting for, or more correctly the moment Ari was waiting for. I
     started talking about the sefer in general and he asked me where we were up to in the
@@ -153,13 +153,13 @@ export const memories = [{
     been able to appreciate the great accomplishment he attained. The Hashgacha Pratis was so
     clear.
     
-    Of course, this is all but a tipah min hayam hagadol of my experiences with Ari Z&quot;L, but if we
+    Of course, this is all but a tipah min hayam hagadol of my experiences with Ari Z"L, but if we
     could hold on to even some of what we were zoche to see, we can ourselves grow
     tremendously as well as be a source of great aliya for his neshama hatehora.
     
-    I can hear Ari saying - &quot; I appreciate all you are doing for me with these memories but you
-    know, what is more important is to remember the רבש&quot;ע &quot;. And I am saying back to you Ari,
-    remembering you and your way helps us remember the רבש&quot;ע better. דרשו ה&#39; !`
+    I can hear Ari saying - " I appreciate all you are doing for me with these memories but you
+    know, what is more important is to remember the רבש"ע ". And I am saying back to you Ari,
+    remembering you and your way helps us remember the רבש"ע better. דרשו ה' !`
 },
 {
     author: "Noam Zinger",
