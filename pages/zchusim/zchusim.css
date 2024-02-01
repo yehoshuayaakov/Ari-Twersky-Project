@@ -47,6 +47,9 @@ form input {
 #zechus{
     width: 15vw;
 }
+#name {
+  width: 150px;
+}
 #submitButton {
     border-radius: 8px;
     border: goldenrod 2px solid;
