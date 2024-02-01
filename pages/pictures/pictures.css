@@ -2,6 +2,8 @@ main {
     justify-content: center;
     align-items: center;
     background: linear-gradient(bisque, lightgrey);
+    margin: 0;
+    width: 100vw;
 }
 .carouselContainer{
     height: 75vh;
