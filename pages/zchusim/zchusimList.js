@@ -17,4 +17,4 @@ export const zechusim = [
     name: 'Meir Ashkenazi',
     zechus: 'Created Learning Program',
     date: '7/20/23'
-}]
+}];
