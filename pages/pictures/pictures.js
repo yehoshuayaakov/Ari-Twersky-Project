@@ -5,7 +5,7 @@ const backButton = document.getElementById("backButton");
 
 let count = 0;
 
-const imageSrcArray = ['../../assets/images/kosel.jpg','../../assets/images/pic2.jpg','../../assets/images/pic3.JPG','../../assets/images/pic4.JPG','../../assets/images/pic5.PNG']
+const imageSrcArray = ['../../assets/images/kosel.jpg','../../assets/images/pic2.jpg','../../assets/images/pic3.jpg','../../assets/images/pic4.jpg','../../assets/images/pic5.PNG']
 
 function nextImage(){
         if (count < imageSrcArray.length-1){
